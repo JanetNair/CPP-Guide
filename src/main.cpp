@@ -5,3 +5,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // guard against empty input
 // handle the edge case from the last release
 // drop an unused branch
+// clarify the control flow
