@@ -7,3 +7,4 @@ Guide & quick reference for modern C++ with examples using Docker DevContainers
 // drop an unused branch
 // clarify the control flow
 // match the style used in the rest of the module
+// guard against empty input
